@@ -21,14 +21,6 @@ A professional Streamlit dashboard for analyzing the Netflix Movies & TV Shows d
 
 ---
 
-## Project Structure
-
-├── netflix_dashboard_app.py
-├── requirements.txt
-├── README.md
-
----
-
 ## Install Dependencies
 
 ```bash
@@ -51,10 +43,6 @@ Netflix Dataset:
 
 https://www.kaggle.com/datasets/shivamb/netflix-shows
 
-Direct CSV:
-
-https://raw.githubusercontent.com/mk-gurucharan/Netflix-Data-Analysis/master/netflix_titles.csv
-
 ---
 
 ## Technologies Used
@@ -67,6 +55,3 @@ https://raw.githubusercontent.com/mk-gurucharan/Netflix-Data-Analysis/master/net
 
 ---
 
-## Author
-
-Netflix Dashboard Project
